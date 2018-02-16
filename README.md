@@ -42,7 +42,7 @@ Changes to the site can be tested locally before deploying to the web. To get se
 - [Yo Application](https://github.com/raptortech-js/YoRestrooms)
 
 ## Slack
-
+ 
 If you want to join the Refuge Restrooms Slack channel, please email refugerestrooms@gmail.com for an invite.
 
 ## License
